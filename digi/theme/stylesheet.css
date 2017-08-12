@@ -769,9 +769,9 @@ li.header dl dt, li.header dl dd { min-height: 0; }
 
 .forabg li.header dl.row-item dt .list-inner { padding-left: 0; padding-right: 50px; }
 
-dl.row-item { background-position: 10px 50%; background-repeat: no-repeat; }
+dl.row-item { background-position: 10px 50%; background-repeat: no-repeat; background-size: 32px; }
 
-dl.row-item dt { background-repeat: no-repeat; background-position: 5px 95%; }
+dl.row-item dt { background-repeat: no-repeat; background-position: 5px 95%; background-size: 17px; }
 
 dl.row-item dt .list-inner { padding-left: 55px; position: relative; padding-top: 5px; padding-bottom: 5px; }
 li.header dl.row-item dt .list-inner { padding-top: 0; padding-bottom: 0; }
