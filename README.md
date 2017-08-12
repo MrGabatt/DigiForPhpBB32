@@ -1,4 +1,4 @@
-Digit For Phpbb 3.2
+Digi For Phpbb 3.2
 =============================
 
 Style for phpBB 3.2
@@ -9,7 +9,7 @@ Requirements:
 - prosilver
 
 ## Download
-https://github.com/MrGabatt/DigitForPhpbb32/archive/master.zip
+https://github.com/MrGabatt/DigiForPhpbb32/archive/master.zip
 
 
 ## License
