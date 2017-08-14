@@ -8,6 +8,14 @@ Requirements:
 - phpBB 3.2
 - prosilver
 
+Style come with 6 color variations :
+- Digi
+- Digi Red (Gray / red color scheme)
+- Digi Orange (Gray / orange color scheme)
+- Digi Green (Green / orange color scheme)
+- Digi Dark Blue (Blue / orange color scheme)
+- Digi Dark Blue 2 (Blue / red color scheme)
+
 ## Download
 https://github.com/MrGabatt/DigiForPhpbb32/archive/master.zip
 
