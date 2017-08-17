@@ -16,6 +16,12 @@ Style come with 6 color variations :
 - Digi Dark Blue (Blue / orange color scheme)
 - Digi Dark Blue 2 (Blue / red color scheme)
 
+How to install a color declination
+The color variations for Digi are available as inherited styles.
+
+Prerequisites
+To install a color variation, you must first install the Digi style.
+
 ## Download
 https://github.com/MrGabatt/DigiForPhpbb32/archive/master.zip
 
