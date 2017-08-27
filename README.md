@@ -9,7 +9,7 @@ Requirements:
 - prosilver
 
 Style come with 6 color variations :
-- Digi
+- Digi (default)
 - Digi Red (Gray / red color scheme)
 - Digi Orange (Gray / orange color scheme)
 - Digi Green (Green / orange color scheme)
