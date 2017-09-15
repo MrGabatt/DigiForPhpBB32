@@ -20,13 +20,17 @@
 */
 @import "custom_config";
 @import "style_config";
-@import "common";
-@import "links";
-@import "content";
-@import "buttons";
-@import "cp";
-@import "forms";
-@import "imageset";
-@import "responsive";
+@import "../../digi/theme/common";
+@import "../../digi/theme/links";
+@import "../../digi/theme/content";
+@import "../../digi/theme/buttons";
+@import "../../digi/theme/cp";
+@import "../../digi/theme/forms";
+@import "../../digi/theme/imageset";
+@import "../../digi/theme/responsive";
 @import "colours";
 @import "custom";
+@import "../../digi/theme/icons";
+@import "../../digi/theme/normalize";
+@import "../../digi/theme/utilities";
+
