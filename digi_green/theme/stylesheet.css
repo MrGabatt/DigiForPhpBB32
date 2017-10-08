@@ -4659,22 +4659,21 @@ dl.details dd {
 
 .jumpbox-cat-link {
   background-color: #345139;
-  border-top-color: #0076B1;
   color: #000; }
 
 .jumpbox-cat-link:hover {
-  background-color: #12A3EB;
-  border-top-color: #12A3EB;
+  background-color: #c37324;
+  border-top-color: #c37324;
   color: #000; }
 
 .jumpbox-forum-link {
-  background-color: #E1EBF2; }
+  background-color: #262e27; }
 
 .jumpbox-forum-link:hover {
-  background-color: #F6F4D0; }
+  background-color: #1e2820; }
 
 .jumpbox .dropdown .pointer-inner {
-  border-color: #E1EBF2 transparent; }
+  border-color: #262e27 transparent; }
 
 .jumpbox-sub-link {
   background-color: #262e27; }
