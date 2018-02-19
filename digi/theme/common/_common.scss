@@ -1670,6 +1670,10 @@ ul.topiclist dl {
 	@extend %clearfix;
 }
 
+ul.topiclist dd.lastpost {
+	float: right;
+}
+
 fieldset.fields1 ul.recipients {
 	list-style-type: none;
 	line-height: 1.8;
@@ -2277,7 +2281,7 @@ ul.linklist:after,
 
 .notification_text {
 	margin-left: 58px;
-	white-sapce: normal;
+	white-space: normal;
 }
 
 .badge {
